@@ -1,0 +1,7 @@
+{
+ "Author": "Urs Voegele",
+ "Repository": "git@github.com:elegoev/basebox-ubuntu-18.04-k3d.git",
+ "OS": "Ubuntu",
+ "Description": "vagrant basebox with ubuntu 18.04 & k3d",
+ "Version Description": "k3d release update"
+}
