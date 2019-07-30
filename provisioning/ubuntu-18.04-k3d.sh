@@ -4,10 +4,7 @@
 sudo apt update
 
 # install k3s without agent
-sudo curl -sfL https://get.k3s.io | sh -
-
-# add aliases to bash shell
-echo "alias kubectl='k3d kubectl'" >> ~/.bashrc
+curl -s https://raw.githubusercontent.com/rancher/k3d/master/install.sh | bash
 
 # create date string
 DATE=`date +%Y%m%d%H%M`

@@ -1,7 +1,7 @@
 {
   "hostvars":
   {
-    "vagrant_image":         "elegoev/ubuntu-18.04",
+    "vagrant_image":         "elegoev/ubuntu-18.04-docker",
     "vagrant_ram":           "2048",
     "vagrant_cpu":           "2",
     "vb_hostname":           "k3d",

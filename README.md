@@ -7,6 +7,9 @@ Used base image [elegoev/ubuntu-18.04](https://app.vagrantup.com/elegoev/boxes/u
 #### Automatic provisioning
 The base image is provisioned with bash script [ubuntu-18.04-k3d.sh](https://github.com/elegoev/vagrant-ubuntu/blob/master/vagrant-ubuntu1804-k3d/provisioning/ubuntu-18.04-k3d.sh)
 
+#### References
+  - [k3d github](https://github.com/rancher/k3d)
+
 ###  Create Vagrant Box Environment
 #### Provider "virtualbox"
 1. Create directory `mkdir "name of directory"`
