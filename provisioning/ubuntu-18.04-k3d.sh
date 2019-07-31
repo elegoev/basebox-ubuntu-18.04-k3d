@@ -6,6 +6,9 @@ sudo apt update
 # install k3s without agent
 curl -s https://raw.githubusercontent.com/rancher/k3d/master/install.sh | bash
 
+# install kubectl
+sudo snap install kubectl --classic
+
 # create date string
 DATE=`date +%Y%m%d%H%M`
 
