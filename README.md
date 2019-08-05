@@ -9,6 +9,7 @@ The base image is provisioned with bash script [ubuntu-18.04-k3d.sh](https://git
 
 #### References
   - [k3d github](https://github.com/rancher/k3d)
+  - [manage k3s clusters with k3d](https://felixwiedmann.de/k3d-manage-k3s-clusters/)
 
 ###  Create Vagrant Box Environment
 #### Provider "virtualbox"
