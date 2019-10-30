@@ -2,7 +2,7 @@
 Vagrant Box with Ubuntu 18.04 & k3d
 
 ### Base image
-Used base image [elegoev/ubuntu-18.04](https://app.vagrantup.com/elegoev/boxes/ubuntu-18.04)
+Used base image [elegoev/ubuntu-18.04-docker](https://app.vagrantup.com/elegoev/boxes/ubuntu-18.04-docker)
 
 ### Automatic provisioning
 The base image is provisioned with bash script [ubuntu-18.04-k3d.sh](https://github.com/elegoev/basebox-ubuntu-18.04-k3d/blob/master/provisioning/ubuntu-18.04-k3d.sh)
