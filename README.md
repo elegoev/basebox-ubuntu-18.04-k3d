@@ -11,6 +11,15 @@ The base image is provisioned with bash script [ubuntu-18.04-k3d.sh](https://git
 - [k3d github](https://github.com/rancher/k3d)
 - [manage k3s clusters with k3d](https://felixwiedmann.de/k3d-manage-k3s-clusters/)
 
+### Configuration
+#### Required Vagrant Plugins
+- vagrant-disksize
+- vagrant-hosts
+- vagrant-secret
+- vagrant-share
+- vagrant-vbguest
+- vagrant-vmware-esxi
+
 ###  Create Vagrant Box Environment
 #### Provider "virtualbox"
 1. Create directory `mkdir "name of directory"`
