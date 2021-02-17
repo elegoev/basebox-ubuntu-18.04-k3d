@@ -72,6 +72,9 @@ Used base image [elegoev/ubuntu-18.04-docker](https://app.vagrantup.com/elegoev/
 - [Simplifying Your Cloud-Native Development Workflow With K3s, K3c and K3d](https://www.youtube.com/watch?v=hMr3prm9gDM&list=WL&index=3)
 - [Set up K3s in High Availability using k3d](https://rancher.com/blog/2020/set-up-k3s-high-availability-using-k3d/)
 - [k3d: Local Development with K3s Made Easy](https://www.youtube.com/watch?utm_campaign=Online+Meetup&utm_medium=email&_hsmi=110066728&_hsenc=p2ANqtz-_sn7FT74NBepGO9CzTfIghiNUx6KeUktO9EfmexrxpME1DqHQbssSCiKC296_yrViGd-gy-BMpHeNnQr3azCshnoS0WA&utm_content=110066728&utm_source=hs_email&v=d9JRb4fk5ag&feature=youtu.be)
+- [k3x](https://github.com/inercia/k3x)
+- [k3x: Eine grafische k3d-Oberfläche zum Verwalten von Kubernetes](https://blog.desdelinux.net/de/k3x-una-interfaz-grafica-de-k3d-para-el-manejo-de-kubernetes/)
+
 
 ### Versioning
 
