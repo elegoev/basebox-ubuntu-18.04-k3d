@@ -12,7 +12,7 @@
     "github_repo_version": "{{user `github_repo`}}/tree/{{user `image_version`}}",
     "github_inspec_report": "{{user `github_repo`}}/blob/{{user `image_version`}}{{user `inspec_report`}}",
     "vagrant_template": "./packer/files-prov/template/Vagrantfile",
-    "vagrantcloud_base_image": "https://app.vagrantup.com/elegoev/boxes/ubuntu-18.04/versions/{{user `src_image_version`}}",
+    "vagrantcloud_base_image": "https://app.vagrantup.com/elegoev/boxes/ubuntu-18.04-docker/versions/{{user `src_image_version`}}",
     "application_info": "https://github.com/elegoev/basebox-ubuntu-18.04-k3d/blob/{{user `image_version`}}/installed-application.md"
   },
   "builders": [
