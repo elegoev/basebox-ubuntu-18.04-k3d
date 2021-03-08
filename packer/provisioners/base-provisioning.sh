@@ -2,7 +2,7 @@
 
 application_file_path="/vagrant/installed-application.md"
 
-# install k3s without agent
+# install k3d without agent
 curl -s https://raw.githubusercontent.com/rancher/k3d/master/install.sh | bash
 
 # install kubectl
