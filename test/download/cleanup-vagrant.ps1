@@ -5,7 +5,7 @@ if (Test-Path $VagrantDirName) {
 }
 
 # delete log file
-$LogFilename = 'ubuntu-xenial-16.04-cloudimg-console.log'
+$LogFilename = '.\ubuntu-bionic-18.04-cloudimg-console.log'
 if (Test-Path $LogFilename) {
   Remove-Item $LogFilename
 }
